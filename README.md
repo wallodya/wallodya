@@ -1,7 +1,5 @@
 # Hello there 👋
 
-## Thanks for stopping by
-
 I\`m a web-developer and work mostly with **JavaScript**, **TypeScript** and **SQL**.<br>
 For the front-end I use **React.js** with **Tailwind**.<br>
 For the back-end: **Express**, **Nest.js** and **PostgreSQL** as a DB. 
